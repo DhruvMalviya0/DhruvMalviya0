@@ -20,8 +20,8 @@ I am a Computer Science student (Class of 2028) based in India. I specialize in 
 **Web & Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
 
 **Game Dev & Tools**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -33,6 +33,7 @@ I am a Computer Science student (Class of 2028) based in India. I specialize in 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **Property Search Portal** | Centralized search for Delhi property ownership and encumbrance checks with PDF reports. | React, Tailwind, Node.js |
 | **Solar System Ray Tracer** | A physically based renderer implementing ray tracing logic for celestial bodies. | C++17, OpenGL |
 | **Ledger** | A collaborative platform designed to connect NGOs with open-source contributors. | Web Stack |
 | **Gesture Control Suite** | AI-powered tools including a Virtual Mouse and a gesture-controlled racing game. | Python, OpenCV |
